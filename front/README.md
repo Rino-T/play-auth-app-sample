@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# play auth app sample front
+
+このプロジェクトは [Create React App](https://github.com/facebook/create-react-app) により作成されています。
+
+## 環境
+
+node: v12.14.1
+npm: 6.13.4
 
 ## Available Scripts
 
